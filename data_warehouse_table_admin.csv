@@ -1,0 +1,6 @@
+﻿RowId,TableName,TableType,LastUpdateDateTime,LastUpdateKey,NextLoadType,RowCycleId,UpdateDate
+1,FactSales,Transactional,NULL,150000,I,1,2025-08-27 16:36:00
+2,DimCustomer,SCD Type 2,Aug  7 2025  9:23AM,0,I,1,2025-08-27 16:36:00
+3,DimProduct,Hierarchy,Jul 28 2025 11:36AM,0,I,1,2025-08-27 16:36:00
+4,DimOrder,NULL,Jul  4 2024 12:00AM,0,I,1,2025-08-27 16:36:00
+5,DimDate,Role-Playing,NULL,20251231,I,1,2025-08-27 16:36:00

@@ -1,0 +1,32 @@
+category_id,main_category,subcategory
+1,Electronics,Laptops
+2,Electronics,Smartphones
+3,Electronics,Headphones
+4,Electronics,Cameras
+5,Electronics,Tablets
+6,Clothing,T-Shirts
+7,Clothing,Jeans
+8,Clothing,Dresses
+9,Clothing,Jackets
+10,Clothing,Shoes
+11,Home Goods,Kitchenware
+12,Home Goods,Furniture
+13,Home Goods,Bedding
+14,Home Goods,Decor
+15,Home Goods,Appliances
+16,Sports Equipment,Fitness
+17,Sports Equipment,Outdoor
+18,Sports Equipment,Team Sports
+19,Sports Equipment,Water Sports
+20,Books,Fiction
+21,Books,Non-Fiction
+22,Books,Children's
+23,Books,Academic
+24,Health & Beauty,Skincare
+25,Health & Beauty,Makeup
+26,Health & Beauty,Haircare
+27,Health & Beauty,Supplements
+28,Toys & Games,Board Games
+29,Toys & Games,Puzzles
+30,Toys & Games,Action Figures
+31,Toys & Games,Dolls
